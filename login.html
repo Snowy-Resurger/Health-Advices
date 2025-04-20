@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login - Health Advicer</title>
+    <link rel="stylesheet" href="../static/css/login.css">
+    <link rel="icon" type="image/x-icon" href="../static/img/Health_logo.jpg">
+</head>
+<body>
+    <div class="login-container">
+        <h1>Welcome to Health Advicer!</h1>
+        <form id="loginForm">
+            <input type="text" placeholder="Username" name="username" required>
+            <input type="password" placeholder="Password" name="password" required>
+            <button type="submit">Login</button>
+            <p>Don't have an account? <a href="#" onclick="switchToSignup()">Sign Up</a></p>
+        </form>
+
+        <form id="signupForm" style="display: none;">
+            <input type="text" placeholder="Username" name="newUsername" required>
+            <input type="password" placeholder="Password" name="newPassword" required>
+            <input type="email" placeholder="Email" name="email" required>
+            <button type="submit">Sign Up</button>
+            <p>Already have an account? <a href="#" onclick="switchToLogin()">Login</a></p>
+        </form>
+    </div>
+
+    <script>
+        function switchToSignup() {
+            document.getElementById('loginForm').style.display = 'none';
+            document.getElementById('signupForm').style.display = 'block';
+        }
+        function switchToLogin() {
+            document.getElementById('signupForm').style.display = 'none';
+            document.getElementById('loginForm').style.display = 'block';
+        }
+    </script>
+</body>
+</html>
