@@ -1,2 +1,14 @@
 # Health-Advices
-This is for those who needs some health advices to keep your life healthy as always!
+This website features a lot of stuff, like:
+- Log In or Sign Up so you can contact a doctor with your username and your own password.
+- About Us
+- Health Advices
+- Profile
+
+
+[--------------------------------------- /// ---------------------------------------]
+THIS WEBSITE IS USED MAINLY FOR MEDICAL PURPOSES, NOT ENTERTAINMENT PURPOSES!!!
+Made in 2025
+By @Snowy_Resurger
+THIS IS JUST FOR THE KODLAND WEBSITE FINAL PROJECT!!!
+[--------------------------------------- \\\ ---------------------------------------]
