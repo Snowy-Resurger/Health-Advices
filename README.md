@@ -6,9 +6,9 @@ This website features a lot of stuff, like:
 - Profile
 
 
-[--------------------------------------- /// ---------------------------------------]
-THIS WEBSITE IS USED MAINLY FOR MEDICAL PURPOSES, NOT ENTERTAINMENT PURPOSES!!!
-Made in 2025
-By @Snowy_Resurger
-THIS IS JUST FOR THE KODLAND WEBSITE FINAL PROJECT!!!
-[--------------------------------------- \\\ ---------------------------------------]
+--------------------------------------- /// ---------------------------------------
+- THIS WEBSITE IS USED MAINLY FOR MEDICAL PURPOSES, NOT ENTERTAINMENT PURPOSES!!!
+- Made in 2025
+- By @Snowy_Resurger
+- THIS IS JUST FOR THE KODLAND WEBSITE FINAL PROJECT!!!
+--------------------------------------- \\\ ---------------------------------------
