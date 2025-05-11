@@ -12,6 +12,6 @@ This website features a lot of stuff, like:
 - By @Snowy_Resurger
 - THIS IS JUST FOR THE KODLAND WEBSITE FINAL PROJECT!!!
 
---------------------------------------- \\\ ---------------------------------------
+--------------------------------------- \\\\ ---------------------------------------
 
 ![Alt text](https://github.com/Snowy-Resurger/Health-Advices/blob/main/Health%20Advicer%20Login.png)
